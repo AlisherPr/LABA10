@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LABA10</string>
+    <string name="vvod">Выберете фигуру</string>
+    <string name="perimetr">Расчитать периметр</string>
+</resources>
